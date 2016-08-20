@@ -1,0 +1,28 @@
+{
+  "name": "fbm-bot",
+  "version": "1.0.0",
+  "description": "My facebook messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacsang97/fb-messenger-bot.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot"
+  ],
+  "author": "SangND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacsang97/fb-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/dacsang97/fb-messenger-bot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
